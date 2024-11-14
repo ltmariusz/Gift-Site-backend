@@ -1,0 +1,14 @@
+{
+  "name": "gift-site-backend",
+  "version": "1.0.0",
+  "description": "backend for GiftSite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariusz Lemański",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
